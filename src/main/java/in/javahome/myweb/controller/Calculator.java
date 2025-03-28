@@ -4,9 +4,9 @@ package in.javahome.myweb.controller;
  */
 public class Calculator {
 	
-	/*
-	 * @param i
-	 * @param j
+	/**
+	 * @param i First number
+	 * @param j Second number
 	 * @return int
 	 */
 	public int add(int i, int j){
